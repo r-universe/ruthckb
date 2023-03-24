@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bubbleHeatmap"]
+	path = bubbleHeatmap
+	url = https://github.com/cran/bubbleHeatmap
+	shallow = true
+	registered = true
